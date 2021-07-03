@@ -23,7 +23,7 @@
 	\large{
 	\begin{enumerate}
 	\item[\textbf{a)}]
-	\textbf{Usando el MATLAB grafique las señales f[n],g[n] y h[n].}\\
+	\textbf{Usando el MATLAB grafique las señales en tiempo discreto f[n],g[n] y h[n].}\\
 	$ \bullet$Para la grafica $f[n]=3$ , $ 0\leq n\leq 2$, se utilizo la funcion stem de MATLAB para realizar un pulso cuadrado consideramos en un intervalo de $[-8,8]$.
 \begin{figure}[h]
 \centering
@@ -168,13 +168,49 @@ y[n]=g[n]*h[n] =
 \textbf{Expresamos en n y escalón unitario la señal:}
 $$y[n]=(0.5)^n(u[n+2]+4u[n+1]+12u[n]+16u[n-1]+16u[n-2]-49u[n-7])$$ $$+(0.5)^5(3u[n-7]-3u[n-8])
 +(0.5)^8(11u[n-8]-11u[n-9])$$ $$+(0.5)^6(u[n-9]-u[n-10])+(0.5)^8(u[n-10]-u[n-11])$$
+	\item[\textbf{c)}]	
+	\textbf{Usando el comando conv en MATLAB grafique las convoluciones $$f[n]*f[n],f[n]*g[n],f[n]*h[n],g[n]*g[n], g[n]*h[n],h[n]*h[n]$$}
+\textbf{Graficando}\\
+ Como el algoritmo es igual para todos, solo bosquejamos las gráficas: 
+\begin{center}
+\includegraphics[scale=0.70]{../Imagenes de señales problema 2/ff.png} 
+\end{center}
+$$Convolucion :f[n]*f[n]$$ 
+\begin{center}
+\includegraphics[scale=0.80]{../Imagenes de señales problema 2/ffgrafica.png} 
+\end{center}
+\newpage
+$$Convolucion :f[n]*g[n]$$
+\begin{center}
+\includegraphics[scale=0.80]{../Imagenes de señales problema 2/fggrafica.png} 
+\end{center}
+$$Convolucion :f[n]*h[n]$$
+\begin{center}
+\includegraphics[scale=0.80]{../Imagenes de señales problema 2/fh.png} 
+\end{center}
+\newpage
+$$Convolucion :g[n]*g[n]$$
+\begin{center}
+\includegraphics[scale=0.80]{../Imagenes de señales problema 2/gg.png} 
+\end{center}
+$$Convolucion :g[n]*h[n]$$
+\begin{center}
+\includegraphics[scale=0.80]{../Imagenes de señales problema 2/gh.png} 
+\end{center}
+\newpage
+$$Convolucion :h[n]*h[n]$$
+\begin{center}
+\includegraphics[scale=0.8]{../Imagenes de señales problema 2/hh.png} 
+\end{center}
+$$$$
+$$$$
+$$$$
 	\end{enumerate}
 	}}
-	\section{{\large \textbf{(a)El esquema del diagrama de bloques,en el dominio de frecuencia compleja,que relaciona la entrada y salida de un sistema LTI causa,es el siguiente }}}{
+	\section{h}{
 	\large{
 	\begin{enumerate}
 	\item[\textbf{}]
-	
 	Determinar:\\
 	$\bullet$ La función de transferencia $H(z)$ del mencionado sistema\\
 	$\bullet$ La ecuación de diferencias de coeficientes constantes que representa al sistema\\
@@ -210,7 +246,7 @@ $$y[n]=(0.5)^n(u[n+2]+4u[n+1]+12u[n]+16u[n-1]+16u[n-2]-49u[n-7])$$ $$+(0.5)^5(3u
     \begin{center}
 	$\therefore$ \boxed{y[n]-1.6 y[n-1]+0.63 y[n-2] = 4x[n]-4x[n-2]}
 	\end{center}
-	\newpage
+	
 	\textbf{3er paso:}\\
 	Calculando la respuesta al impulso del sistema:
 	Como la entrada es el impulso unitario, entonces $x[n]=\delta[n]$;por lo tanto, como $Z\lbrace \delta[n] \rbrace=X(z)=1$.Además, trabajaremos con la transformada Z.

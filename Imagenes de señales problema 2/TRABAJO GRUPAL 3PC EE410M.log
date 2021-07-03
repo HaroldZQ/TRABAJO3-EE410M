@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  2 JUL 2021 03:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  3 JUL 2021 03:53
 entering extended mode
 **"./TRABAJO GRUPAL 3PC EE410M.tex"
 (TRABAJO GRUPAL 3PC EE410M.tex
@@ -688,20 +688,20 @@ LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
 )
-<../Imagenes de señales problema 2/Sin título.png, id=9, 299.61937pt x 106.89
-937pt>
+<../Imagenes de señales problema 2/Sin título.png, id=9, 299.61937pt x 109.91
+063pt>
 File: ../Imagenes de señales problema 2/Sin título.png Graphic file (type png
 )
 <use ../Imagenes de señales problema 2/Sin título.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/Sin título.png  us
 ed on input line 30.
-(pdftex.def)             Requested size: 179.77301pt x 64.1401pt.
-<../Imagenes de señales problema 2/pulso.png, id=10, 397.485pt x 319.94531pt>
+(pdftex.def)             Requested size: 179.77301pt x 65.94687pt.
+<../Imagenes de señales problema 2/pulso.png, id=10, 402.75468pt x 325.215pt>
 File: ../Imagenes de señales problema 2/pulso.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/pulso.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/pulso.png  used on 
 input line 35.
-(pdftex.def)             Requested size: 198.742pt x 159.97226pt.
+(pdftex.def)             Requested size: 201.37685pt x 162.6071pt.
 <../Imagenes de señales problema 2/sintutulo1.png, id=11, 307.1475pt x 109.910
 63pt>
 File: ../Imagenes de señales problema 2/sintutulo1.png Graphic file (type png)
@@ -710,13 +710,13 @@ File: ../Imagenes de señales problema 2/sintutulo1.png Graphic file (type png)
 Package pdftex.def Info: ../Imagenes de señales problema 2/sintutulo1.png  use
 d on input line 42.
 (pdftex.def)             Requested size: 184.28992pt x 65.94687pt.
-<../Imagenes de señales problema 2/triangulo.png, id=12, 399.74344pt x 319.945
-31pt>
+<../Imagenes de señales problema 2/triangulo.png, id=12, 404.26031pt x 325.967
+82pt>
 File: ../Imagenes de señales problema 2/triangulo.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/triangulo.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/triangulo.png  used
  on input line 47.
-(pdftex.def)             Requested size: 199.87122pt x 159.97226pt.
+(pdftex.def)             Requested size: 202.12965pt x 162.9835pt.
  [1
 
 
@@ -730,13 +730,13 @@ File: ../Imagenes de señales problema 2/titulo2.png Graphic file (type png)
 Package pdftex.def Info: ../Imagenes de señales problema 2/titulo2.png  used o
 n input line 55.
 (pdftex.def)             Requested size: 219.07011pt x 72.72224pt.
-<../Imagenes de señales problema 2/expone.png, id=19, 391.4625pt x 321.45094pt
+<../Imagenes de señales problema 2/expone.png, id=19, 391.4625pt x 327.47343pt
 >
 File: ../Imagenes de señales problema 2/expone.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/expone.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/expone.png  used on
  input line 61.
-(pdftex.def)             Requested size: 234.8793pt x 192.87204pt.
+(pdftex.def)             Requested size: 234.8793pt x 196.48558pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
@@ -787,35 +787,86 @@ kp/m/n/12 [2]\OML/jkp/m/it/12 h\OT1/jkp/m/n/12 [4] = []
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 202--204
+<../Imagenes de señales problema 2/ff.png, id=33, 353.06906pt x 341.02406pt>
+File: ../Imagenes de señales problema 2/ff.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/ff.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/ff.png  used on inp
+ut line 176.
+(pdftex.def)             Requested size: 247.14665pt x 238.71521pt.
+<../Imagenes de señales problema 2/ffgrafica.png, id=34, 393.72093pt x 318.439
+68pt>
+File: ../Imagenes de señales problema 2/ffgrafica.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/ffgrafica.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/ffgrafica.png  used
+ on input line 180.
+(pdftex.def)             Requested size: 314.97717pt x 254.75209pt.
+ [6 <../Imagenes de señales problema 2/ff.png> <../Imagenes de señales proble
+ma 2/ffgrafica.png>]
+<../Imagenes de señales problema 2/fggrafica.png, id=39, 394.47375pt x 311.664
+37pt>
+File: ../Imagenes de señales problema 2/fggrafica.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/fggrafica.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/fggrafica.png  used
+ on input line 185.
+(pdftex.def)             Requested size: 315.57942pt x 249.33183pt.
+<../Imagenes de señales problema 2/fh.png, id=40, 396.7322pt x 308.65312pt>
+File: ../Imagenes de señales problema 2/fh.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/fh.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/fh.png  used on inp
+ut line 189.
+(pdftex.def)             Requested size: 317.38617pt x 246.92282pt.
+ [7 <../Imagenes de señales problema 2/fggrafica.png> <../Imagenes de señales
+ problema 2/fh.png>]
+<../Imagenes de señales problema 2/gg.png, id=44, 392.96812pt x 309.40594pt>
+File: ../Imagenes de señales problema 2/gg.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/gg.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/gg.png  used on inp
+ut line 194.
+(pdftex.def)             Requested size: 314.37491pt x 247.52509pt.
+<../Imagenes de señales problema 2/gh.png, id=45, 395.97937pt x 304.13625pt>
+File: ../Imagenes de señales problema 2/gh.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/gh.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/gh.png  used on inp
+ut line 198.
+(pdftex.def)             Requested size: 316.78392pt x 243.30933pt.
+ [8 <../Imagenes de señales problema 2/gg.png> <../Imagenes de señales proble
+ma 2/gh.png>]
+<../Imagenes de señales problema 2/hh.png, id=49, 398.23781pt x 304.88907pt>
+File: ../Imagenes de señales problema 2/hh.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/hh.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/hh.png  used on inp
+ut line 203.
+(pdftex.def)             Requested size: 318.59067pt x 243.91158pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
 
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 217--219
+[9 <../Imagenes de señales problema 2/hh.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 253--255
 
  []
 
-[7] (TRABAJO GRUPAL 3PC EE410M.aux (CARATULATAREAPC3.aux)) ) 
+[10] (TRABAJO GRUPAL 3PC EE410M.aux (CARATULATAREAPC3.aux)) ) 
 Here is how much of TeX's memory you used:
- 5227 strings out of 479334
- 72483 string characters out of 2866957
- 374495 words of memory out of 3000000
- 22584 multiletter control sequences out of 15000+200000
+ 5268 strings out of 479334
+ 74175 string characters out of 2866957
+ 374497 words of memory out of 3000000
+ 22619 multiletter control sequences out of 15000+200000
  439468 words of font info for 106 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,74p,340b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/M
-iKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Harold/AppData/Roaming/MiKTeX/fonts
-/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fonts
-/type1/public/kpfonts/jkpex.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fonts/t
-ype1/public/kpfonts/jkpmi.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fonts/typ
-e1/public/kpfonts/jkpmn8a.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fonts/typ
-e1/public/kpfonts/jkpsy.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fonts/type1
-/public/kpfonts/jkpsya.pfb>
-Output written on "TRABAJO GRUPAL 3PC EE410M.pdf" (8 pages, 205577 bytes).
+{C:/Program Files/
+MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Harold/AppData/Roaming/MiKTeX/font
+s/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/font
+s/type1/public/kpfonts/jkpex.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fonts/
+type1/public/kpfonts/jkpmi.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fonts/ty
+pe1/public/kpfonts/jkpmn8a.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fonts/ty
+pe1/public/kpfonts/jkpsy.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fonts/type
+1/public/kpfonts/jkpsya.pfb>
+Output written on "TRABAJO GRUPAL 3PC EE410M.pdf" (11 pages, 303044 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

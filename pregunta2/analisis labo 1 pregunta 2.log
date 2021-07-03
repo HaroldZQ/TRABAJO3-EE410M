@@ -1,0 +1,441 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  3 JUL 2021 02:28
+entering extended mode
+**"./analisis labo 1 pregunta 2.tex"
+(analisis labo 1 pregunta 2.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen139
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip16
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks18
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks19
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box49
+)
+No file "analisis labo 1 pregunta 2".aux.
+\openout1 = `"analisis labo 1 pregunta 2.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count266
+\scratchdimen=\dimen150
+\scratchbox=\box50
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count269
+\MPscratchDim=\dimen151
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks24
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+) [1
+
+{C:/Users/Harold/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<../Imagenes de señales problema 2/Sin título.png, id=7, 299.61937pt x 109.91
+063pt>
+File: ../Imagenes de señales problema 2/Sin título.png Graphic file (type png
+)
+<use ../Imagenes de señales problema 2/Sin título.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/Sin título.png  us
+ed on input line 45.
+(pdftex.def)             Requested size: 149.80931pt x 54.95517pt.
+<../Imagenes de señales problema 2/pulso.png, id=8, 402.75468pt x 325.215pt>
+File: ../Imagenes de señales problema 2/pulso.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/pulso.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/pulso.png  used on 
+input line 48.
+(pdftex.def)             Requested size: 201.37685pt x 162.6071pt.
+<../Imagenes de señales problema 2/sintutulo1.png, id=9, 307.1475pt x 109.9106
+3pt>
+File: ../Imagenes de señales problema 2/sintutulo1.png Graphic file (type png)
+
+<use ../Imagenes de señales problema 2/sintutulo1.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/sintutulo1.png  use
+d on input line 51.
+(pdftex.def)             Requested size: 153.57336pt x 54.95517pt.
+<../Imagenes de señales problema 2/triangulo.png, id=10, 404.26031pt x 325.967
+82pt>
+File: ../Imagenes de señales problema 2/triangulo.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/triangulo.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/triangulo.png  used
+ on input line 54.
+(pdftex.def)             Requested size: 202.12965pt x 162.9835pt.
+ [1 <../Imagenes de señales problema 2/Sin título.png> <../Imagenes de señal
+es problema 2/pulso.png> <../Imagenes de señales problema 2/sintutulo1.png> <.
+./Imagenes de señales problema 2/triangulo.png>]
+<../Imagenes de señales problema 2/titulo2.png, id=21, 365.11406pt x 121.20282
+pt>
+File: ../Imagenes de señales problema 2/titulo2.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/titulo2.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/titulo2.png  used o
+n input line 58.
+(pdftex.def)             Requested size: 182.55658pt x 60.60126pt.
+<../Imagenes de señales problema 2/expone.png, id=22, 391.4625pt x 327.47343pt
+>
+File: ../Imagenes de señales problema 2/expone.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/expone.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/expone.png  used on
+ input line 61.
+(pdftex.def)             Requested size: 195.73076pt x 163.73631pt.
+ [2 <../Imagenes de señales problema 2/titulo2.png> <../Imagenes de señales p
+roblema 2/expone.png>]
+Overfull \hbox (101.32292pt too wide) detected at line 92
+[]
+ []
+
+[3]
+Overfull \hbox (84.46567pt too wide) detected at line 128
+[]
+ []
+
+
+Overfull \hbox (29.27515pt too wide) detected at line 135
+\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 = 1 \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 y\OT
+1/cmr/m/n/10 [\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 ] = [] \OML/cmm/m/it/10 g\OT1/c
+mr/m/n/10 [\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10
+ [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ] = \
+OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 2]\OML/cmm/
+m/it/10 h\OT1/cmr/m/n/10 [3] + \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n
+/10  \OT1/cmr/m/n/10 1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [2] + \OML/cmm/m/it/10
+ g\OT1/cmr/m/n/10 [0]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [1] + \OML/cmm/m/it/10 g
+\OT1/cmr/m/n/10 [1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [0] = []
+ []
+
+
+Overfull \hbox (69.05417pt too wide) detected at line 136
+\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 = 2 \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 y\OT
+1/cmr/m/n/10 [\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 ] = [] \OML/cmm/m/it/10 g\OT1/c
+mr/m/n/10 [\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10
+ [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ] = \
+OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 2]\OML/cmm/
+m/it/10 h\OT1/cmr/m/n/10 [4] + \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n
+/10  \OT1/cmr/m/n/10 1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [3] + \OML/cmm/m/it/10
+ g\OT1/cmr/m/n/10 [0]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [2] + \OML/cmm/m/it/10 g
+\OT1/cmr/m/n/10 [1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [1] + \OML/cmm/m/it/10 g\O
+T1/cmr/m/n/10 [2]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [0] = []
+ []
+
+[4]
+Overfull \hbox (69.05417pt too wide) detected at line 137
+\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 = 3 \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 y\OT
+1/cmr/m/n/10 [\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 ] = [] \OML/cmm/m/it/10 g\OT1/c
+mr/m/n/10 [\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10
+ [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ] = \
+OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 2]\OML/cmm/
+m/it/10 h\OT1/cmr/m/n/10 [5] + \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n
+/10  \OT1/cmr/m/n/10 1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [4] + \OML/cmm/m/it/10
+ g\OT1/cmr/m/n/10 [0]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [3] + \OML/cmm/m/it/10 g
+\OT1/cmr/m/n/10 [1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [2] + \OML/cmm/m/it/10 g\O
+T1/cmr/m/n/10 [2]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [1] = []
+ []
+
+
+Overfull \hbox (69.05417pt too wide) detected at line 138
+\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 = 4 \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 y\OT
+1/cmr/m/n/10 [\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 ] = [] \OML/cmm/m/it/10 g\OT1/c
+mr/m/n/10 [\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10
+ [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ] = \
+OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 2]\OML/cmm/
+m/it/10 h\OT1/cmr/m/n/10 [6] + \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n
+/10  \OT1/cmr/m/n/10 1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [5] + \OML/cmm/m/it/10
+ g\OT1/cmr/m/n/10 [0]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [4] + \OML/cmm/m/it/10 g
+\OT1/cmr/m/n/10 [1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [3] + \OML/cmm/m/it/10 g\O
+T1/cmr/m/n/10 [2]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [2] = []
+ []
+
+
+Overfull \hbox (74.05418pt too wide) detected at line 139
+\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 = 5 \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 y\OT
+1/cmr/m/n/10 [\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 ] = [] \OML/cmm/m/it/10 g\OT1/c
+mr/m/n/10 [\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10
+ [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ] = \
+OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 2]\OML/cmm/
+m/it/10 h\OT1/cmr/m/n/10 [7] + \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n
+/10  \OT1/cmr/m/n/10 1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [6] + \OML/cmm/m/it/10
+ g\OT1/cmr/m/n/10 [0]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [5] + \OML/cmm/m/it/10 g
+\OT1/cmr/m/n/10 [1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [4] + \OML/cmm/m/it/10 g\O
+T1/cmr/m/n/10 [2]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [3] = []
+ []
+
+
+Overfull \hbox (74.05418pt too wide) detected at line 140
+\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 = 6 \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 y\OT
+1/cmr/m/n/10 [\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 ] = [] \OML/cmm/m/it/10 g\OT1/c
+mr/m/n/10 [\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10
+ [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ] = \
+OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 2]\OML/cmm/
+m/it/10 h\OT1/cmr/m/n/10 [8] + \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n
+/10  \OT1/cmr/m/n/10 1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [7] + \OML/cmm/m/it/10
+ g\OT1/cmr/m/n/10 [0]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [6] + \OML/cmm/m/it/10 g
+\OT1/cmr/m/n/10 [1]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [5] + \OML/cmm/m/it/10 g\O
+T1/cmr/m/n/10 [2]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10 [4] = []
+ []
+
+
+Overfull \hbox (21.49734pt too wide) detected at line 141
+\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 = 7 \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 y\OT
+1/cmr/m/n/10 [\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 ] = [] \OML/cmm/m/it/10 g\OT1/c
+mr/m/n/10 [\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 h\OT1/cmr/m/n/10
+ [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ] = \
+OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 1]\OML/cmm/
+m/it/10 h\OT1/cmr/m/n/10 [8] + \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [0]\OML/cmm/m/
+it/10 h\OT1/cmr/m/n/10 [7] + \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [1]\OML/cmm/m/it
+/10 h\OT1/cmr/m/n/10 [6] + \OML/cmm/m/it/10 g\OT1/cmr/m/n/10 [2]\OML/cmm/m/it/1
+0 h\OT1/cmr/m/n/10 [5] = []
+ []
+
+
+Overfull \hbox (113.89857pt too wide) detected at line 167
+\OML/cmm/m/it/10 y\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 ] = (0\OML
+/cmm/m/it/10 :\OT1/cmr/m/n/10 5)[](\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 [\OML/cmm/
+m/it/10 n \OT1/cmr/m/n/10 + 2] + 4\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 [\OML/cmm/m
+/it/10 n \OT1/cmr/m/n/10 + 1] + 12\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 [\OML/cmm/m
+/it/10 n\OT1/cmr/m/n/10 ] + 16\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 [\OML/cmm/m/it/
+10 n \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 1] + 16\OML/cmm/m/it/10 u\OT1/cmr/m/n/1
+0 [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 2] \OMS/cmsy/m/n/10   
+\OT1/cmr/m/n/10 49\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n \OMS/cm
+sy/m/n/10   \OT1/cmr/m/n/10 7]) + (0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5)[](3\OM
+L/cmm/m/it/10 u\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OT1/cmr/
+m/n/10 7] \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 u\OT1/cmr/m/n/10
+ [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 8])
+ []
+
+[5]
+Overfull \hbox (40.4875pt too wide) detected at line 168
+\OT1/cmr/m/n/10 +(0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5)[](11\OML/cmm/m/it/10 u\
+OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 8] \OMS/c
+msy/m/n/10   \OT1/cmr/m/n/10 11\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 [\OML/cmm/m/it
+/10 n \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 9]) + (0\OML/cmm/m/it/10 :\OT1/cmr/m/n
+/10 5)[](\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10
+   \OT1/cmr/m/n/10 9] \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 u\OT1/cmr/m/n/10 [\OM
+L/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 10]) + (0\OML/cmm/m/it/10 :\
+OT1/cmr/m/n/10 5)[](\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n \OMS/
+cmsy/m/n/10   \OT1/cmr/m/n/10 10] \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 u\OT1/cmr
+/m/n/10 [\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 11])
+ []
+
+<../Imagenes de señales problema 2/ff.png, id=37, 353.06906pt x 341.02406pt>
+File: ../Imagenes de señales problema 2/ff.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/ff.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/ff.png  used on inp
+ut line 172.
+(pdftex.def)             Requested size: 247.14665pt x 238.71521pt.
+<../Imagenes de señales problema 2/ffgrafica.png, id=38, 393.72093pt x 318.439
+68pt>
+File: ../Imagenes de señales problema 2/ffgrafica.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/ffgrafica.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/ffgrafica.png  used
+ on input line 176.
+(pdftex.def)             Requested size: 275.60277pt x 222.90625pt.
+<../Imagenes de señales problema 2/fggrafica.png, id=39, 394.47375pt x 311.664
+37pt>
+File: ../Imagenes de señales problema 2/fggrafica.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/fggrafica.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/fggrafica.png  used
+ on input line 180.
+(pdftex.def)             Requested size: 276.12973pt x 218.16356pt.
+[6 <../Imagenes de señales problema 2/ff.png> <../Imagenes de señales problem
+a 2/ffgrafica.png>]
+<../Imagenes de señales problema 2/fh.png, id=44, 396.7322pt x 308.65312pt>
+File: ../Imagenes de señales problema 2/fh.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/fh.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/fh.png  used on inp
+ut line 184.
+(pdftex.def)             Requested size: 277.71063pt x 216.0557pt.
+<../Imagenes de señales problema 2/gg.png, id=45, 392.96812pt x 309.40594pt>
+File: ../Imagenes de señales problema 2/gg.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/gg.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/gg.png  used on inp
+ut line 188.
+(pdftex.def)             Requested size: 275.07579pt x 216.58267pt.
+ [7 <../Imagenes de señales problema 2/fggrafica.png> <../Imagenes de señales
+ problema 2/fh.png>]
+<../Imagenes de señales problema 2/gh.png, id=49, 395.97937pt x 304.13625pt>
+File: ../Imagenes de señales problema 2/gh.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/gh.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/gh.png  used on inp
+ut line 192.
+(pdftex.def)             Requested size: 277.18367pt x 212.8939pt.
+<../Imagenes de señales problema 2/hh.png, id=50, 398.23781pt x 304.88907pt>
+File: ../Imagenes de señales problema 2/hh.png Graphic file (type png)
+<use ../Imagenes de señales problema 2/hh.png>
+Package pdftex.def Info: ../Imagenes de señales problema 2/hh.png  used on inp
+ut line 196.
+(pdftex.def)             Requested size: 278.76456pt x 213.42088pt.
+ [8 <../Imagenes de señales problema 2/gg.png> <../Imagenes de señales proble
+ma 2/gh.png>] [9 <../Imagenes de señales problema 2/hh.png>] (analisis labo 1 
+pregunta 2.aux) ) 
+Here is how much of TeX's memory you used:
+ 2462 strings out of 479334
+ 35090 string characters out of 2866957
+ 330669 words of memory out of 3000000
+ 19907 multiletter control sequences out of 15000+200000
+ 407254 words of font info for 42 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,12n,74p,291b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10
+.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pro
+gram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/P
+rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts
+/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "analisis labo 1 pregunta 2.pdf" (10 pages, 274909 bytes).
+PDF statistics:
+ 92 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
