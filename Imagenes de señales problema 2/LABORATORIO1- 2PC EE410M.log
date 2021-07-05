@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  4 JUL 2021 05:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  4 JUL 2021 23:42
 entering extended mode
-**"./TRABAJO GRUPAL 3PC EE410M.tex"
-(TRABAJO GRUPAL 3PC EE410M.tex
+**"./LABORATORIO1- 2PC EE410M.tex"
+(LABORATORIO1- 2PC EE410M.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -84,6 +84,26 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
+(C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(C:\Users\Harold\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Harold\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count199
+))
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
@@ -101,10 +121,6 @@ Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks22
-)
 (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
@@ -121,6 +137,14 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
+)
+(C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks23
+\float@box=\box49
+\@float@everytoks=\toks24
+\@floatcapt=\box50
 )
 (C:\Program Files\MiKTeX\tex/latex/lm\lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
@@ -164,10 +188,10 @@ Package: kpfonts  2010/08/20 v3.31
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
 )
-\c@mv@rm=\count199
-\c@mv@boldrm=\count266
-\c@mv@sf=\count267
-\c@mv@boldsf=\count268
+\c@mv@rm=\count267
+\c@mv@boldrm=\count268
+\c@mv@sf=\count269
+\c@mv@boldsf=\count270
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 354.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> OT1/jkp/m/n on input line 354.
@@ -482,15 +506,15 @@ Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
 
 (C:\Program Files\MiKTeX\tex/latex/latex-tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count269
-\calc@Bcount=\count270
+\calc@Acount=\count271
+\calc@Bcount=\count272
 \calc@Adimen=\dimen150
 \calc@Bdimen=\dimen151
 \calc@Askip=\skip52
 \calc@Bskip=\skip53
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count271
+\calc@Ccount=\count273
 \calc@Cskip=\skip54
 )
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/mathtools\mhsetup.sty
@@ -500,7 +524,7 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
-\g_MT_multlinerow_int=\count272
+\g_MT_multlinerow_int=\count274
 \l_MT_multwidth_dim=\dimen152
 \origjot=\skip55
 \l_MT_shortvdotswithinadjustabove_dim=\dimen153
@@ -509,14 +533,14 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \l_MT_below_intertext_sep=\dimen156
 \l_MT_above_shortintertext_sep=\dimen157
 \l_MT_below_shortintertext_sep=\dimen158
-\xmathstrut@box=\box49
+\xmathstrut@box=\box51
 \xmathstrut@dim=\dimen159
 )
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/generic/schemata\schemata.sty
 Package: schemata 2021/02/27 1.4 generic package to aid construction of topical
  categories
-\@schemata@rhs=\box50
-\@schemata@lhs=\box51
+\@schemata@rhs=\box52
+\@schemata@lhs=\box53
 \@schemata@rheight=\dimen160
 \@schemata@lheight=\dimen161
 \@schemata@one=\dimen162
@@ -532,9 +556,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count273
-\Gm@cntv=\count274
-\c@Gm@tempcnt=\count275
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
 \Gm@bindingoffset=\dimen165
 \Gm@wd@mp=\dimen166
 \Gm@odd@mp=\dimen167
@@ -543,75 +567,81 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutheight=\dimen170
 \Gm@layouthoffset=\dimen171
 \Gm@layoutvoffset=\dimen172
-\Gm@dimlist=\toks23
+\Gm@dimlist=\toks25
 
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
 LaTeX Font Info:    Trying to load font information for OT1+jkp on input line 2
-0.
+2.
 
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\ot1jkp.fd
 File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
 )
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count276
-\l__pdf_internal_box=\box52
+\l__color_backend_stack_int=\count278
+\l__pdf_internal_box=\box54
 )
-(TRABAJO GRUPAL 3PC EE410M.aux (CARATULATAREAPC3.aux))
-\openout1 = `"TRABAJO GRUPAL 3PC EE410M.aux"'.
+(LABORATORIO1- 2PC EE410M.aux (CARATULATAREAPC3.aux) (indice.aux)
 
-LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 20.
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `DIAGRAMADEAMORTIGUACION2' multiply defined.
+
+)
+\openout1 = `"LABORATORIO1- 2PC EE410M.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 22.
 LaTeX Font Info:    Trying to load font information for OML+jkp on input line 2
-0.
-
-(C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\omljkp.fd
+2.
+ (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\omljkp.fd
 File: omljkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for OMS+jkp on input line 2
-0.
+2.
 
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\omsjkp.fd
 File: omsjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for OMX+jkp on input line 2
-0.
+2.
 
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\omxjkp.fd
 File: omxjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for U+jkpexa on input line 
-20.
+22.
 
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\ujkpexa.fd
 File: ujkpexa.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    ... okay on input line 22.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count277
+\scratchcounter=\count279
 \scratchdimen=\dimen173
-\scratchbox=\box53
-\nofMPsegments=\count278
-\nofMParguments=\count279
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count280
+\scratchbox=\box55
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count282
 \MPscratchDim=\dimen174
-\MPnumerator=\count281
-\makeMPintoPDFobject=\count282
-\everyMPtoPDFconversion=\toks25
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks27
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -654,117 +684,416 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 \openout2 = `CARATULATAREAPC3.aux'.
 
 (CARATULATAREAPC3.tex
-<Logo UNI.png, id=1, 501.875pt x 501.875pt>
+<Logo UNI.png, id=1, 270.25969pt x 342.5297pt>
 File: Logo UNI.png Graphic file (type png)
 <use Logo UNI.png>
 Package pdftex.def Info: Logo UNI.png  used on input line 9.
-(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+(pdftex.def)             Requested size: 189.18048pt x 239.76915pt.
  [1
 
 
 {C:/Users/Harold/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./Logo UNI.png
->]) [1
+>])
+\openout2 = `indice.aux'.
+
+ (indice.tex [1
 
 
-]
-Overfull \hbox (25.85222pt too wide) in paragraph at lines 39--40
+
+])
+Overfull \hbox (25.85222pt too wide) in paragraph at lines 36--37
 \OT1/jkp/m/n/12 Como ya ha sido men-cionado, la suma de con-voluci[]on provee u
 na man-era matem[]aticamante
  []
 
 LaTeX Font Info:    Trying to load font information for U+jkpsya on input line 
-40.
+37.
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\ujkpsya.fd
 File: ujkpsya.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpsyb on input line 
-40.
+37.
 
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\ujkpsyb.fd
 File: ujkpsyb.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpmia on input line 
-40.
+37.
 
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\ujkpmia.fd
 File: ujkpmia.fd 2006/08/15 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line 
-40.
+37.
 
 (C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
-) [2]
-<../Imagenes de señales problema 2/Sin título.png, id=18, 299.61937pt x 109.9
+)
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+jkp on input line 5
+1.
+(C:\Users\Harold\AppData\Roaming\MiKTeX\tex/latex/kpfonts\ts1jkp.fd
+File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[1
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+Overfull \hbox (1.02538pt too wide) in paragraph at lines 79--81
+\OT1/jkp/m/n/12 Si la trans-for-mada de Laplace de una funci[]on $\OML/jkp/m/it
+/12 F\OT1/jkp/m/n/12 (\OML/jkp/m/it/12 t\OT1/jkp/m/n/12 )$, es $\OML/jkp/m/it/1
+2 f\OT1/jkp/m/n/12 (\OML/jkp/m/it/12 s\OT1/jkp/m/n/12 )$. es de-cir $\OMS/jkp/m
+/n/12 L[] \OT1/jkp/m/n/12 = \OML/jkp/m/it/12 f\OT1/jkp/m/n/12 (\OML/jkp/m/it/12
+ s\OT1/jkp/m/n/12 )$,entonces
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 102--106
+
+ []
+
+<fig1.png, id=20, 421.575pt x 316.18124pt>
+File: fig1.png Graphic file (type png)
+<use fig1.png>
+Package pdftex.def Info: fig1.png  used on input line 111.
+(pdftex.def)             Requested size: 337.26045pt x 252.94533pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--115
+
+ []
+
+[3 <./fig1.png (PNG copy)>]
+<fig2.png, id=25, 421.575pt x 316.18124pt>
+File: fig2.png Graphic file (type png)
+<use fig2.png>
+Package pdftex.def Info: fig2.png  used on input line 122.
+(pdftex.def)             Requested size: 337.26045pt x 252.94533pt.
+<fig3.png, id=26, 421.575pt x 316.18124pt>
+File: fig3.png Graphic file (type png)
+<use fig3.png>
+Package pdftex.def Info: fig3.png  used on input line 132.
+(pdftex.def)             Requested size: 337.26045pt x 252.94533pt.
+ [4 <./fig2.png (PNG copy)> <./fig3.png (PNG copy)>]
+<fig4.png, id=30, 421.575pt x 316.18124pt>
+File: fig4.png Graphic file (type png)
+<use fig4.png>
+Package pdftex.def Info: fig4.png  used on input line 145.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<fig5.png, id=31, 421.575pt x 316.18124pt>
+File: fig5.png Graphic file (type png)
+<use fig5.png>
+Package pdftex.def Info: fig5.png  used on input line 156.
+(pdftex.def)             Requested size: 252.94695pt x 189.7102pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+[5 <./fig4.png (PNG copy)> <./fig5.png (PNG copy)>]
+<fig6.png, id=36, 421.575pt x 316.18124pt>
+File: fig6.png Graphic file (type png)
+<use fig6.png>
+Package pdftex.def Info: fig6.png  used on input line 166.
+(pdftex.def)             Requested size: 252.94695pt x 189.7102pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
+
+ []
+
+<fig7.png, id=37, 421.575pt x 316.18124pt>
+File: fig7.png Graphic file (type png)
+<use fig7.png>
+Package pdftex.def Info: fig7.png  used on input line 177.
+(pdftex.def)             Requested size: 252.94695pt x 189.7102pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+[6 <./fig6.png (PNG copy)> <./fig7.png (PNG copy)>]
+<fig8.png, id=41, 421.575pt x 316.18124pt>
+File: fig8.png Graphic file (type png)
+<use fig8.png>
+Package pdftex.def Info: fig8.png  used on input line 188.
+(pdftex.def)             Requested size: 252.94695pt x 189.7102pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--194
+
+ []
+
+<fig9.png, id=42, 421.575pt x 417.05812pt>
+File: fig9.png Graphic file (type png)
+<use fig9.png>
+Package pdftex.def Info: fig9.png  used on input line 197.
+(pdftex.def)             Requested size: 337.26045pt x 333.64694pt.
+[7 <./fig8.png (PNG copy)> <./fig9.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--223
+
+ []
+
+<fig10.png, id=46, 421.575pt x 433.62pt>
+File: fig10.png Graphic file (type png)
+<use fig10.png>
+Package pdftex.def Info: fig10.png  used on input line 226.
+(pdftex.def)             Requested size: 379.41399pt x 390.2544pt.
+[8 <./fig10.png (PNG copy)>]
+<fig11.png, id=50, 421.575pt x 431.36156pt>
+File: fig11.png Graphic file (type png)
+<use fig11.png>
+Package pdftex.def Info: fig11.png  used on input line 232.
+(pdftex.def)             Requested size: 463.73392pt x 474.49918pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--234
+
+ []
+
+[9 <./fig11.png (PNG copy)>]
+<fig12.png, id=54, 421.575pt x 432.86719pt>
+File: fig12.png Graphic file (type png)
+<use fig12.png>
+Package pdftex.def Info: fig12.png  used on input line 251.
+(pdftex.def)             Requested size: 505.88745pt x 519.43802pt.
+
+Overfull \hbox (22.19058pt too wide) in paragraph at lines 251--252
+ [][] 
+ []
+
+
+Overfull \hbox (5.09103pt too wide) in paragraph at lines 246--253
+[]\OT1/jkp/m/n/12 Ahora us-ando \OT1/jkp/b/n/12 mat-lab \OT1/jkp/m/n/12 y el co
+-mando \OT1/jkp/m/it/12 conv \OT1/jkp/m/n/12 hal-lare-mos las con-volu-ciones d
+e $\OML/jkp/m/it/12 f\OT1/jkp/m/n/12 (\OML/jkp/m/it/12 t\OT1/jkp/m/n/12 ) \OMS/
+jkp/m/n/12  \OML/jkp/m/it/12 f\OT1/jkp/m/n/12 (\OML/jkp/m/it/12 t\OT1/jkp/m/n/
+12 )\OML/jkp/m/it/12 ;  f\OT1/jkp/m/n/12 (\OML/jkp/m/it/12 t\OT1/jkp/m/n/12 ) \
+OMS/jkp/m/n/12 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--253
+
+ []
+
+[10 <./fig12.png (PNG copy)>]
+<fig13.png, id=59, 421.575pt x 432.86719pt>
+File: fig13.png Graphic file (type png)
+<use fig13.png>
+Package pdftex.def Info: fig13.png  used on input line 258.
+(pdftex.def)             Requested size: 505.88745pt x 519.43802pt.
+
+Overfull \hbox (22.19058pt too wide) in paragraph at lines 258--259
+ [][] 
+ []
+
+[11 <./fig13.png (PNG copy)>]
+<fig14.png, id=64, 421.575pt x 435.87843pt>
+File: fig14.png Graphic file (type png)
+<use fig14.png>
+Package pdftex.def Info: fig14.png  used on input line 265.
+(pdftex.def)             Requested size: 505.88745pt x 523.0515pt.
+
+Overfull \hbox (22.19058pt too wide) in paragraph at lines 265--266
+ [][] 
+ []
+
+[12 <./fig14.png (PNG copy)>]
+<fig15.png, id=68, 421.575pt x 436.63126pt>
+File: fig15.png Graphic file (type png)
+<use fig15.png>
+Package pdftex.def Info: fig15.png  used on input line 272.
+(pdftex.def)             Requested size: 505.88745pt x 523.95488pt.
+
+Overfull \hbox (22.19058pt too wide) in paragraph at lines 272--273
+ [][] 
+ []
+
+[13 <./fig15.png (PNG copy)>]
+<fig16.png, id=72, 421.575pt x 453.94594pt>
+File: fig16.png Graphic file (type png)
+<use fig16.png>
+Package pdftex.def Info: fig16.png  used on input line 280.
+(pdftex.def)             Requested size: 505.88745pt x 544.73239pt.
+
+Overfull \hbox (22.19058pt too wide) in paragraph at lines 280--281
+ [][] 
+ []
+
+[14 <./fig16.png (PNG copy)>]
+<../Imagenes de señales problema 2/Sin título.png, id=76, 299.61937pt x 109.9
 1063pt>
 File: ../Imagenes de señales problema 2/Sin título.png Graphic file (type png
 )
 <use ../Imagenes de señales problema 2/Sin título.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/Sin título.png  us
-ed on input line 52.
+ed on input line 292.
 (pdftex.def)             Requested size: 179.77301pt x 65.94687pt.
-<../Imagenes de señales problema 2/pulso.png, id=19, 402.75468pt x 325.215pt>
+<../Imagenes de señales problema 2/pulso.png, id=77, 402.75468pt x 325.215pt>
 File: ../Imagenes de señales problema 2/pulso.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/pulso.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/pulso.png  used on 
-input line 57.
+input line 297.
 (pdftex.def)             Requested size: 201.37685pt x 162.6071pt.
-<../Imagenes de señales problema 2/sintutulo1.png, id=20, 307.1475pt x 109.910
+<../Imagenes de señales problema 2/sintutulo1.png, id=78, 307.1475pt x 109.910
 63pt>
 File: ../Imagenes de señales problema 2/sintutulo1.png Graphic file (type png)
 
 <use ../Imagenes de señales problema 2/sintutulo1.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/sintutulo1.png  use
-d on input line 64.
+d on input line 304.
 (pdftex.def)             Requested size: 184.28992pt x 65.94687pt.
-<../Imagenes de señales problema 2/triangulo.png, id=21, 404.26031pt x 325.967
+<../Imagenes de señales problema 2/triangulo.png, id=79, 404.26031pt x 325.967
 82pt>
 File: ../Imagenes de señales problema 2/triangulo.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/triangulo.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/triangulo.png  used
- on input line 69.
+ on input line 309.
 (pdftex.def)             Requested size: 202.12965pt x 162.9835pt.
-
-[3 <../Imagenes de señales problema 2/Sin título.png> <../Imagenes de señale
-s problema 2/pulso.png> <../Imagenes de señales problema 2/sintutulo1.png> <..
-/Imagenes de señales problema 2/triangulo.png>]
-<../Imagenes de señales problema 2/titulo2.png, id=25, 365.11406pt x 121.20282
+ [15 <../Imagenes de señales problema 2/Sin título.png> <../Imagenes de seña
+les problema 2/pulso.png> <../Imagenes de señales problema 2/sintutulo1.png> <
+../Imagenes de señales problema 2/triangulo.png>]
+<../Imagenes de señales problema 2/titulo2.png, id=83, 365.11406pt x 121.20282
 pt>
 File: ../Imagenes de señales problema 2/titulo2.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/titulo2.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/titulo2.png  used o
-n input line 77.
+n input line 317.
 (pdftex.def)             Requested size: 219.07011pt x 72.72224pt.
-<../Imagenes de señales problema 2/expone.png, id=26, 391.4625pt x 327.47343pt
+<../Imagenes de señales problema 2/expone.png, id=84, 391.4625pt x 327.47343pt
 >
 File: ../Imagenes de señales problema 2/expone.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/expone.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/expone.png  used on
- input line 83.
+ input line 323.
 (pdftex.def)             Requested size: 234.8793pt x 196.48558pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
 
  []
 
-[4 <../Imagenes de señales problema 2/titulo2.png> <../Imagenes de señales pr
-oblema 2/expone.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+[16 <../Imagenes de señales problema 2/titulo2.png> <../Imagenes de señales p
+roblema 2/expone.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
 
  []
 
 
-Overfull \hbox (19.36635pt too wide) detected at line 116
+Overfull \hbox (19.36635pt too wide) detected at line 356
 []
  []
 
-[5]
-Overfull \hbox (4.37257pt too wide) detected at line 152
+[17]
+Overfull \hbox (4.37257pt too wide) detected at line 392
 []
  []
 
-[6]
-Overfull \hbox (4.87451pt too wide) detected at line 163
+[18]
+Overfull \hbox (4.87451pt too wide) detected at line 403
 \OML/jkp/m/it/12 n \OT1/jkp/m/n/12 = 5 \OMS/jkp/m/n/12 ! \OML/jkp/m/it/12 y\OT1
 /jkp/m/n/12 [\OML/jkp/m/it/12 n\OT1/jkp/m/n/12 ] = [] \OML/jkp/m/it/12 g\OT1/jk
 p/m/n/12 [\OML/jkp/m/it/12 k\OT1/jkp/m/n/12 ]\OML/jkp/m/it/12 h\OT1/jkp/m/n/12 
@@ -778,7 +1107,7 @@ kp/m/n/12 [2]\OML/jkp/m/it/12 h\OT1/jkp/m/n/12 [3] = []
  []
 
 
-Overfull \hbox (4.87451pt too wide) detected at line 164
+Overfull \hbox (4.87451pt too wide) detected at line 404
 \OML/jkp/m/it/12 n \OT1/jkp/m/n/12 = 6 \OMS/jkp/m/n/12 ! \OML/jkp/m/it/12 y\OT1
 /jkp/m/n/12 [\OML/jkp/m/it/12 n\OT1/jkp/m/n/12 ] = [] \OML/jkp/m/it/12 g\OT1/jk
 p/m/n/12 [\OML/jkp/m/it/12 k\OT1/jkp/m/n/12 ]\OML/jkp/m/it/12 h\OT1/jkp/m/n/12 
@@ -791,176 +1120,318 @@ T1/jkp/m/n/12 [0]\OML/jkp/m/it/12 h\OT1/jkp/m/n/12 [6] + \OML/jkp/m/it/12 g\OT1
 kp/m/n/12 [2]\OML/jkp/m/it/12 h\OT1/jkp/m/n/12 [4] = []
  []
 
-[7]
-<../Imagenes de señales problema 2/ff.png, id=40, 353.06906pt x 341.02406pt>
+[19]
+<../Imagenes de señales problema 2/ff.png, id=98, 353.06906pt x 341.02406pt>
 File: ../Imagenes de señales problema 2/ff.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/ff.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/ff.png  used on inp
-ut line 198.
+ut line 438.
 (pdftex.def)             Requested size: 247.14665pt x 238.71521pt.
-<../Imagenes de señales problema 2/ffgrafica.png, id=41, 393.72093pt x 318.439
+<../Imagenes de señales problema 2/ffgrafica.png, id=99, 393.72093pt x 318.439
 68pt>
 File: ../Imagenes de señales problema 2/ffgrafica.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/ffgrafica.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/ffgrafica.png  used
- on input line 202.
+ on input line 442.
 (pdftex.def)             Requested size: 314.97717pt x 254.75209pt.
- [8 <../Imagenes de señales problema 2/ff.png> <../Imagenes de señales proble
-ma 2/ffgrafica.png>]
-<../Imagenes de señales problema 2/fggrafica.png, id=45, 394.47375pt x 311.664
-37pt>
+ [20 <../Imagenes de señales problema 2/ff.png> <../Imagenes de señales probl
+ema 2/ffgrafica.png>]
+<../Imagenes de señales problema 2/fggrafica.png, id=103, 394.47375pt x 311.66
+437pt>
 File: ../Imagenes de señales problema 2/fggrafica.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/fggrafica.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/fggrafica.png  used
- on input line 207.
+ on input line 447.
 (pdftex.def)             Requested size: 315.57942pt x 249.33183pt.
-<../Imagenes de señales problema 2/fh.png, id=46, 396.7322pt x 308.65312pt>
+<../Imagenes de señales problema 2/fh.png, id=104, 396.7322pt x 308.65312pt>
 File: ../Imagenes de señales problema 2/fh.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/fh.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/fh.png  used on inp
-ut line 211.
+ut line 451.
 (pdftex.def)             Requested size: 317.38617pt x 246.92282pt.
- [9 <../Imagenes de señales problema 2/fggrafica.png> <../Imagenes de señales
- problema 2/fh.png>]
-<../Imagenes de señales problema 2/gg.png, id=50, 392.96812pt x 309.40594pt>
+ [21 <../Imagenes de señales problema 2/fggrafica.png> <../Imagenes de señale
+s problema 2/fh.png>]
+<../Imagenes de señales problema 2/gg.png, id=108, 392.96812pt x 309.40594pt>
 File: ../Imagenes de señales problema 2/gg.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/gg.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/gg.png  used on inp
-ut line 216.
+ut line 456.
 (pdftex.def)             Requested size: 314.37491pt x 247.52509pt.
-<../Imagenes de señales problema 2/gh.png, id=51, 395.97937pt x 304.13625pt>
+<../Imagenes de señales problema 2/gh.png, id=109, 395.97937pt x 304.13625pt>
 File: ../Imagenes de señales problema 2/gh.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/gh.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/gh.png  used on inp
-ut line 220.
+ut line 460.
 (pdftex.def)             Requested size: 316.78392pt x 243.30933pt.
- [10 <../Imagenes de señales problema 2/gg.png> <../Imagenes de señales probl
+ [22 <../Imagenes de señales problema 2/gg.png> <../Imagenes de señales probl
 ema 2/gh.png>]
-<../Imagenes de señales problema 2/hh.png, id=55, 398.23781pt x 304.88907pt>
+<../Imagenes de señales problema 2/hh.png, id=113, 398.23781pt x 304.88907pt>
 File: ../Imagenes de señales problema 2/hh.png Graphic file (type png)
 <use ../Imagenes de señales problema 2/hh.png>
 Package pdftex.def Info: ../Imagenes de señales problema 2/hh.png  used on inp
-ut line 225.
+ut line 465.
 (pdftex.def)             Requested size: 318.59067pt x 243.91158pt.
- [11 <../Imagenes de señales problema 2/hh.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 234--238
+ [23 <../Imagenes de señales problema 2/hh.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 472--475
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--238
+Underfull \hbox (badness 10000) in paragraph at lines 472--475
+
+ []
+
+<DIAGRAMADEBLOQUESSISTEMA3.jpeg, id=118, 569.12625pt x 336.25626pt>
+File: DIAGRAMADEBLOQUESSISTEMA3.jpeg Graphic file (type jpg)
+<use DIAGRAMADEBLOQUESSISTEMA3.jpeg>
+Package pdftex.def Info: DIAGRAMADEBLOQUESSISTEMA3.jpeg  used on input line 492
+.
+(pdftex.def)             Requested size: 398.38567pt x 235.37776pt.
+[24 <./DIAGRAMADEBLOQUESSISTEMA3.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 499--501
+
+ []
+
+<IMAGENRESPUESTAIMPULSO.jpeg, id=122, 569.12625pt x 355.3275pt>
+File: IMAGENRESPUESTAIMPULSO.jpeg Graphic file (type jpg)
+<use IMAGENRESPUESTAIMPULSO.jpeg>
+Package pdftex.def Info: IMAGENRESPUESTAIMPULSO.jpeg  used on input line 505.
+(pdftex.def)             Requested size: 341.47838pt x 213.19814pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--512
+
+ []
+
+<IMAGENRESPUESTAESCALON.jpeg, id=123, 569.12625pt x 335.2525pt>
+File: IMAGENRESPUESTAESCALON.jpeg Graphic file (type jpg)
+<use IMAGENRESPUESTAESCALON.jpeg>
+Package pdftex.def Info: IMAGENRESPUESTAESCALON.jpeg  used on input line 517.
+(pdftex.def)             Requested size: 341.47838pt x 201.15305pt.
+[25 <./IMAGENRESPUESTAIMPULSO.jpeg> <./IMAGENRESPUESTAESCALON.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 523--525
+
+ []
+
+<IMAGENRESPUESTAUEX.jpeg, id=127, 569.12625pt x 358.33875pt>
+File: IMAGENRESPUESTAUEX.jpeg Graphic file (type jpg)
+<use IMAGENRESPUESTAUEX.jpeg>
+Package pdftex.def Info: IMAGENRESPUESTAUEX.jpeg  used on input line 530.
+(pdftex.def)             Requested size: 313.0204pt x 197.08691pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--246
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
 
  []
 
-[12]
-<DIAGRAMABLOQUESISTEMA4.png, id=63, 915.42pt x 342.5297pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--554
+
+ []
+
+[26 <./IMAGENRESPUESTAUEX.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 567--570
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--570
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--578
+
+ []
+
+[27]
+<DIAGRAMABLOQUESISTEMA4.png, id=135, 915.42pt x 342.5297pt>
 File: DIAGRAMABLOQUESISTEMA4.png Graphic file (type png)
 <use DIAGRAMABLOQUESISTEMA4.png>
-Package pdftex.def Info: DIAGRAMABLOQUESISTEMA4.png  used on input line 276.
+Package pdftex.def Info: DIAGRAMABLOQUESISTEMA4.png  used on input line 608.
 (pdftex.def)             Requested size: 448.55972pt x 167.84102pt.
-<DIAGRAMABLOQUESISTEMA4VERIFICACION.png, id=64, 921.4425pt x 347.79938pt>
+<DIAGRAMABLOQUESISTEMA4VERIFICACION.png, id=136, 921.4425pt x 347.79938pt>
 File: DIAGRAMABLOQUESISTEMA4VERIFICACION.png Graphic file (type png)
 <use DIAGRAMABLOQUESISTEMA4VERIFICACION.png>
 Package pdftex.def Info: DIAGRAMABLOQUESISTEMA4VERIFICACION.png  used on input 
-line 285.
+line 617.
 (pdftex.def)             Requested size: 451.51079pt x 170.42317pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--291
+Underfull \hbox (badness 10000) in paragraph at lines 613--623
 
  []
 
-[13 <./DIAGRAMABLOQUESISTEMA4.png> <./DIAGRAMABLOQUESISTEMA4VERIFICACION.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
+[28 <./DIAGRAMABLOQUESISTEMA4.png> <./DIAGRAMABLOQUESISTEMA4VERIFICACION.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 625--626
 
  []
 
-<DIAGRAMADEIMPULSO.png, id=68, 922.19531pt x 341.77687pt>
+<DIAGRAMADEIMPULSO.png, id=140, 922.19531pt x 341.77687pt>
 File: DIAGRAMADEIMPULSO.png Graphic file (type png)
 <use DIAGRAMADEIMPULSO.png>
-Package pdftex.def Info: DIAGRAMADEIMPULSO.png  used on input line 298.
+Package pdftex.def Info: DIAGRAMADEIMPULSO.png  used on input line 630.
 (pdftex.def)             Requested size: 451.87967pt x 167.47212pt.
-<DIAGRAMADEIMPULSO2.png, id=69, 405.01312pt x 97.86563pt>
+<DIAGRAMADEIMPULSO2.png, id=141, 405.01312pt x 97.86563pt>
 File: DIAGRAMADEIMPULSO2.png Graphic file (type png)
 <use DIAGRAMADEIMPULSO2.png>
-Package pdftex.def Info: DIAGRAMADEIMPULSO2.png  used on input line 305.
+Package pdftex.def Info: DIAGRAMADEIMPULSO2.png  used on input line 637.
 (pdftex.def)             Requested size: 243.00974pt x 58.71982pt.
-<RESPUESTADELIMPULSO.png, id=70, 421.575pt x 309.40594pt>
+<RESPUESTADELIMPULSO.png, id=142, 421.575pt x 309.40594pt>
 File: RESPUESTADELIMPULSO.png Graphic file (type png)
 <use RESPUESTADELIMPULSO.png>
-Package pdftex.def Info: RESPUESTADELIMPULSO.png  used on input line 313.
+Package pdftex.def Info: RESPUESTADELIMPULSO.png  used on input line 645.
 (pdftex.def)             Requested size: 295.10048pt x 216.58267pt.
-[14 <./DIAGRAMADEIMPULSO.png> <./DIAGRAMADEIMPULSO2.png> <./RESPUESTADELIMPULSO
+[29 <./DIAGRAMADEIMPULSO.png> <./DIAGRAMADEIMPULSO2.png> <./RESPUESTADELIMPULSO
 .png>]
-Underfull \hbox (badness 10000) in paragraph at lines 319--320
+Underfull \hbox (badness 10000) in paragraph at lines 651--652
 
  []
 
-<DIAGRAMADEESCALON.png, id=74, 921.4425pt x 338.76563pt>
+<DIAGRAMADEESCALON.png, id=147, 921.4425pt x 338.76563pt>
 File: DIAGRAMADEESCALON.png Graphic file (type png)
 <use DIAGRAMADEESCALON.png>
-Package pdftex.def Info: DIAGRAMADEESCALON.png  used on input line 324.
+Package pdftex.def Info: DIAGRAMADEESCALON.png  used on input line 656.
 (pdftex.def)             Requested size: 451.51079pt x 165.9966pt.
-<DIAGRAMADEESCALON2.png, id=75, 405.76593pt x 101.62968pt>
+<DIAGRAMADEESCALON2.png, id=148, 405.76593pt x 101.62968pt>
 File: DIAGRAMADEESCALON2.png Graphic file (type png)
 <use DIAGRAMADEESCALON2.png>
-Package pdftex.def Info: DIAGRAMADEESCALON2.png  used on input line 331.
+Package pdftex.def Info: DIAGRAMADEESCALON2.png  used on input line 663.
 (pdftex.def)             Requested size: 243.46143pt x 60.97827pt.
-<RESPUESTADELESCALON.png, id=76, 480.29437pt x 347.79938pt>
+<RESPUESTADELESCALON.png, id=149, 480.29437pt x 347.79938pt>
 File: RESPUESTADELESCALON.png Graphic file (type png)
 <use RESPUESTADELESCALON.png>
-Package pdftex.def Info: RESPUESTADELESCALON.png  used on input line 339.
+Package pdftex.def Info: RESPUESTADELESCALON.png  used on input line 671.
 (pdftex.def)             Requested size: 288.17883pt x 208.68123pt.
-[15 <./DIAGRAMADEESCALON.png> <./DIAGRAMADEESCALON2.png> <./RESPUESTADELESCALON
+[30 <./DIAGRAMADEESCALON.png> <./DIAGRAMADEESCALON2.png> <./RESPUESTADELESCALON
 .png>]
-Underfull \hbox (badness 10000) in paragraph at lines 346--348
+Underfull \hbox (badness 10000) in paragraph at lines 677--678
+
+ []
+
+<DIAGRAMADEAMORTIGUACION.png, id=153, 925.20656pt x 341.77687pt>
+File: DIAGRAMADEAMORTIGUACION.png Graphic file (type png)
+<use DIAGRAMADEAMORTIGUACION.png>
+Package pdftex.def Info: DIAGRAMADEAMORTIGUACION.png  used on input line 682.
+(pdftex.def)             Requested size: 453.35518pt x 167.47212pt.
+<DIAGRAMADEAMORTIGUACION2.png, id=154, 484.81125pt x 103.88812pt>
+File: DIAGRAMADEAMORTIGUACION2.png Graphic file (type png)
+<use DIAGRAMADEAMORTIGUACION2.png>
+Package pdftex.def Info: DIAGRAMADEAMORTIGUACION2.png  used on input line 689.
+(pdftex.def)             Requested size: 290.88899pt x 62.33334pt.
+<RESPUESTADEAMORTIGUACION.png, id=155, 526.96875pt x 408.02437pt>
+File: RESPUESTADEAMORTIGUACION.png Graphic file (type png)
+<use RESPUESTADEAMORTIGUACION.png>
+Package pdftex.def Info: RESPUESTADEAMORTIGUACION.png  used on input line 697.
+(pdftex.def)             Requested size: 274.02531pt x 212.17389pt.
+[31 <./DIAGRAMADEAMORTIGUACION.png> <./DIAGRAMADEAMORTIGUACION2.png> <./RESPUES
+TADEAMORTIGUACION.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 702--706
+
+ []
+
+<LOCALIZACIONDEEU.png, id=159, 447.92343pt x 437.38406pt>
+File: LOCALIZACIONDEEU.png Graphic file (type png)
+<use LOCALIZACIONDEEU.png>
+Package pdftex.def Info: LOCALIZACIONDEEU.png  used on input line 710.
+(pdftex.def)             Requested size: 215.0008pt x 209.94196pt.
+File: DIAGRAMADEAMORTIGUACION2.png Graphic file (type png)
+<use DIAGRAMADEAMORTIGUACION2.png>
+Package pdftex.def Info: DIAGRAMADEAMORTIGUACION2.png  used on input line 718.
+(pdftex.def)             Requested size: 242.40503pt x 51.94392pt.
+<REALIZARLAAMORTIGUACIONENTRADA.png, id=160, 773.89125pt x 304.13625pt>
+File: REALIZARLAAMORTIGUACIONENTRADA.png Graphic file (type png)
+<use REALIZARLAAMORTIGUACIONENTRADA.png>
+Package pdftex.def Info: REALIZARLAAMORTIGUACIONENTRADA.png  used on input line
+ 727.
+(pdftex.def)             Requested size: 386.94467pt x 152.06775pt.
+[32 <./LOCALIZACIONDEEU.png> <./REALIZARLAAMORTIGUACIONENTRADA.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 735--737
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--348
+Underfull \hbox (badness 10000) in paragraph at lines 735--737
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--358
+Underfull \hbox (badness 10000) in paragraph at lines 743--747
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--373
+Underfull \hbox (badness 10000) in paragraph at lines 758--762
 
  []
 
-[16] [17] (TRABAJO GRUPAL 3PC EE410M.aux (CARATULATAREAPC3.aux)) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 766--767
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 773--777
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 788--790
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--790
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--796
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--796
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--802
+
+ []
+
+[35] [36] (LABORATORIO1- 2PC EE410M.aux (CARATULATAREAPC3.aux) (indice.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5337 strings out of 479334
- 76001 string characters out of 2866957
- 374608 words of memory out of 3000000
- 22688 multiletter control sequences out of 15000+200000
- 439468 words of font info for 106 fonts, out of 3000000 for 9000
+ 6345 strings out of 479334
+ 91872 string characters out of 2866957
+ 390613 words of memory out of 3000000
+ 23632 multiletter control sequences out of 15000+200000
+ 458569 words of font info for 142 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,12n,74p,560b,356s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program F
-iles/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Harold/AppData/Roaming/MiKTeX
-/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX
-/fonts/type1/public/kpfonts/jkpex.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/f
-onts/type1/public/kpfonts/jkpmi.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fon
-ts/type1/public/kpfonts/jkpmn8a.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fon
-ts/type1/public/kpfonts/jkpsy.pfb><C:/Users/Harold/AppData/Roaming/MiKTeX/fonts
-/type1/public/kpfonts/jkpsya.pfb>
-Output written on "TRABAJO GRUPAL 3PC EE410M.pdf" (18 pages, 429818 bytes).
+ 68i,12n,74p,687b,357s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Harold/AppData
+/Roaming/MiKTeX/fonts/type1/public/kpfonts/jkpbit8a.pfb><C:/Users/Harold/AppDat
+a/Roaming/MiKTeX/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/Harold/AppDat
+a/Roaming/MiKTeX/fonts/type1/public/kpfonts/jkpex.pfb><C:/Users/Harold/AppData/
+Roaming/MiKTeX/fonts/type1/public/kpfonts/jkpmi.pfb><C:/Users/Harold/AppData/Ro
+aming/MiKTeX/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Users/Harold/AppData/R
+oaming/MiKTeX/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Users/Harold/AppData/R
+oaming/MiKTeX/fonts/type1/public/kpfonts/jkpsy.pfb><C:/Users/Harold/AppData/Roa
+ming/MiKTeX/fonts/type1/public/kpfonts/jkpsya.pfb>
+Output written on "LABORATORIO1- 2PC EE410M.pdf" (38 pages, 1032345 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
+ 206 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
